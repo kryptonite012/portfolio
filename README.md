@@ -7,3 +7,5 @@ Portfolio Overview — View all your holdings in one place with real-time or man
 Interactive Charts — Dynamic visualizations including pie charts, bar graphs, and line charts for allocation and performance
 Gain/Loss Tracking — Track unrealized gains and losses per stock and overall portfolio
 Asset Allocation — Visual breakdown of portfolio by sector, stock, or custom categories
+Performance Metrics — See total investment, current value, and percentage returns
+Responsive Design — Works seamlessly on desktop and mobile
